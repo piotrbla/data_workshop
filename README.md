@@ -4,4 +4,7 @@ Data workshop - Matrix
 - day 2 - colab account connected
 - day 3 - Men's Shoes prices
 - day 4 - first working model
-- day 5 - ?
+- day 5 - features extraction
+
+Car prices prediction:
+- day 1 - Preparation
