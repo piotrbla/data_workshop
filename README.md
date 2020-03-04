@@ -8,3 +8,5 @@ Data workshop - Matrix
 
 Car prices prediction:
 - day 1 - Preparation
+- day 2 - Visualization
+- day 3 - Simple model
